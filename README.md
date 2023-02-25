@@ -1,0 +1,3 @@
+# assignment2
+the problem 3:
+The purpose of the car database should be how to find the most environmentally friendly way to choose our cars, not for other purposes such as expropriation for commercial advertisements. The data we choose needs to be random, and the model selection cannot be biased, such as the selection of the training data, the features used in the model, or the assumptions made during the model's development. Bias can lead to unfairness or discrimination towards certain groups , which can have harmful consequences thus bringing about negative effects. And we need to keep our user information confidential, these are ethical considerations
